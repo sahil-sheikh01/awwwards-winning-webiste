@@ -64,7 +64,7 @@ const Features = () => {
                     <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50">Immerse yourself in a rich and ever-expanding universe where a vibrant array of products converge into an interconnected overlay experience on your world.</p>
                 </div>
 
-                <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
+                <BentoTilt className="bento-tilt_1 border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
                     <BentoCard
                         src="videos/feature-1.mp4"
                         title={<>radia<b>n</b>t</>}
